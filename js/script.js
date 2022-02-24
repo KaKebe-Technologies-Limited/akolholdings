@@ -79,7 +79,7 @@
 	function initialize() {
 		var mapOptions = {
 			zoom: 13,
-			center: new google.maps.LatLng(50.97797382271958, -114.107718560791)
+			center: new google.maps.LatLng(2.2581, 32.8874)
 			// styles: style_array_here
 		};
 		map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
